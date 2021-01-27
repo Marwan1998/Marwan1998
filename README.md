@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+## I'm ***Marwan Algadi*** and this is my github page.
 
-<!--
-**Marwan1998/Marwan1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### iam new web developer, and flutter fan :grin:.
 
-Here are some ideas to get you started:
+Now im working in and learning back-end web developing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 How to reach me:
+- [Linkedin](https://www.linkedin.com/in/marwan-algadi-445a151a3/)
+- [Facebook](https://web.facebook.com/people/Marwan-Alghadi/100010510052186)
+- [Instagram](https://www.instagram.com/marwanv45/)
+
+
+⚡ Fun fact:
+ - i love food :joy:
