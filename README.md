@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hello 👋
 ## Hey, I'm ***Marwan Algadi*** and this is my github page.
 
-### iam new web developer, and flutter fan :grin:.
+### I'm new web developer, and flutter fan :grin:.
 
 Now im working in and learning back-end web developing. 
 
