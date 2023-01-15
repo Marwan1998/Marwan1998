@@ -1,14 +1,14 @@
 # Hello 👋
 ## Hey, I'm ***Marwan Algadi*** and this is my github page.
 
-### I'm new web developer, and flutter fan :grin:.
+### I'm a web developer, PHP fan :grin:.
 
-Now im working in and learning back-end web developing. 
+Laravel Full-stack web development
 
  📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/marwan-algadi-445a151a3/)
 - [Facebook](https://web.facebook.com/people/Marwan-Alghadi/100010510052186)
-- [Instagram](https://www.instagram.com/marwanv45/)
+- [Instagram](https://www.instagram.com/mg45.v/)
 
 
 ⚡ Fun fact:
